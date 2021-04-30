@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>Latest security vulnerabilities Atlassian products (Jira/Confluence)</title>
+<link>https://free.vulniq.com/</link>
+<description>Security vulnerability feed</description>
+<language>en-us</language>
+<item>
+<title>CVE-2021-26071</title>
+<link>https://free.vulniq.com/data/CVE-2021-26071/info</link>
+<description>The SetFeatureEnabled.jspa resource in Jira Server and Data Center before version 8.5.13, from version 8.6.0 before version 8.13.5, and from version 8.14.0 before version 8.15.1 allows remote anonymous attackers to enable and disable Jira Software configuration via a cross-site request forgery (CSRF...</description>
+</item>
+<item>
+<title>CVE-2021-26070</title>
+<link>https://free.vulniq.com/data/CVE-2021-26070/info</link>
+<description>Affected versions of Atlassian Jira Server and Data Center allow remote attackers to evade behind-the-firewall protection of app-linked resources via a Broken Authentication vulnerability in the `makeRequest` gadget resource. The affected versions are before version 8.13.3, and from version 8.14.0 b...</description>
+</item>
+<item>
+<title>CVE-2021-26069</title>
+<link>https://free.vulniq.com/data/CVE-2021-26069/info</link>
+<description>Affected versions of Atlassian Jira Server and Data Center allow unauthenticated remote attackers to download temporary files and enumerate project keys via an Information Disclosure vulnerability in the /rest/api/1.0/issues/{id}/ActionsAndOperations API endpoint. The affected versions are before ve...</description>
+</item>
+<item>
+<title>CVE-2020-36286</title>
+<link>https://free.vulniq.com/data/CVE-2020-36286/info</link>
+<description>The membersOf JQL search function in Jira Server and Data Center before version 8.5.13, from version 8.6.0 before version 8.13.5, and from version 8.14.0 before version 8.15.1 allows remote anonymous attackers to determine if a group exists & members of groups if they are assigned to publicly visibl...</description>
+</item>
+<item>
+<title>CVE-2020-36238</title>
+<link>https://free.vulniq.com/data/CVE-2020-36238/info</link>
+<description>The /rest/api/1.0/render resource in Jira Server and Data Center before version 8.5.13, from version 8.6.0 before version 8.13.5, and from version 8.14.0 before version 8.15.1 allows remote anonymous attackers to determine if a username is valid or not via a missing permissions check.</description>
+</item>
+<item>
+<title>CVE-2020-36237</title>
+<link>https://free.vulniq.com/data/CVE-2020-36237/info</link>
+<description>Affected versions of Atlassian Jira Server and Data Center allow unauthenticated remote attackers to view custom field options via an Information Disclosure vulnerability in the /rest/api/2/customFieldOption/ endpoint. The affected versions are before version 8.15.0.</description>
+</item>
+<item>
+<title>CVE-2020-36236</title>
+<link>https://free.vulniq.com/data/CVE-2020-36236/info</link>
+<description>Affected versions of Atlassian Jira Server and Data Center allow remote attackers to inject arbitrary HTML or JavaScript via a Cross-Site Scripting (XSS) vulnerability in the ViewWorkflowSchemes.jspa and ListWorkflows.jspa endpoints. The affected versions are before version 8.5.11, from version 8.6....</description>
+</item>
+<item>
+<title>CVE-2020-36235</title>
+<link>https://free.vulniq.com/data/CVE-2020-36235/info</link>
+<description>Affected versions of Atlassian Jira Server and Data Center allow unauthenticated remote attackers to view custom field and custom SLA names via an Information Disclosure vulnerability in the mobile site view. The affected versions are before version 8.13.2, and from version 8.14.0 before 8.14.1.</description>
+</item>
+<item>
+<title>CVE-2020-36234</title>
+<link>https://free.vulniq.com/data/CVE-2020-36234/info</link>
+<description>Affected versions of Atlassian Jira Server and Data Center allow remote attackers to inject arbitrary HTML or JavaScript via a Cross-Site Scripting (XSS) vulnerability in the Screens Modal view. The affected versions are before version 8.5.11, from version 8.6.0 before 8.13.3, and from version 8.14....</description>
+</item>
+<item>
+<title>CVE-2020-36231</title>
+<link>https://free.vulniq.com/data/CVE-2020-36231/info</link>
+<description>Affected versions of Atlassian Jira Server and Data Center allow remote attackers to view the metadata of boards they should not have access to via an Insecure Direct Object References (IDOR) vulnerability. The affected versions are before version 8.5.10, and from version 8.6.0 before 8.13.2.</description>
+</item>
+<item>
+<title>CVE-2020-29451</title>
+<link>https://free.vulniq.com/data/CVE-2020-29451/info</link>
+<description>Affected versions of Atlassian Jira Server and Data Center allow remote attackers to enumerate Jira projects via an Information Disclosure vulnerability in the Jira Projects plugin report page. The affected versions are before version 8.5.11, from version 8.6.0 before 8.13.3, and from version 8.14.0...</description>
+</item>
+<item>
+<title>CVE-2020-29450</title>
+<link>https://free.vulniq.com/data/CVE-2020-29450/info</link>
+<description>Affected versions of Atlassian Confluence Server and Data Center allow remote attackers to impact the application's availability via a Denial of Service (DoS) vulnerability in the avatar upload feature. The affected versions are before version 7.2.0.</description>
+</item>
+<item>
+<title>CVE-2020-29448</title>
+<link>https://free.vulniq.com/data/CVE-2020-29448/info</link>
+<description>The ConfluenceResourceDownloadRewriteRule class in Confluence Server and Confluence Data Center before version 6.13.18, from 6.14.0 before 7.4.6, and from 7.5.0 before 7.8.3 allowed unauthenticated remote attackers to read arbitrary files within WEB-INF and META-INF directories via an incorrect path...</description>
+</item>
+<item>
+<title>CVE-2020-14193</title>
+<link>https://free.vulniq.com/data/CVE-2020-14193/info</link>
+<description>Affected versions of Automation for Jira - Server allowed remote attackers to read and render files as mustache templates in files inside the WEB-INF/classes & <jira-installation>/jira/bin directories via a template injection vulnerability in Jira smart values using mustache partials. The affected v...</description>
+</item>
+<item>
+<title>CVE-2020-14185</title>
+<link>https://free.vulniq.com/data/CVE-2020-14185/info</link>
+<description>Affected versions of Jira Server allow remote unauthenticated attackers to enumerate issue keys via a missing permissions check in the ActionsAndOperations resource. The affected versions are before 7.13.18, from version 8.0.0 before 8.5.9, and from version 8.6.0 before version 8.12.2.</description>
+</item>
+<item>
+<title>CVE-2020-14184</title>
+<link>https://free.vulniq.com/data/CVE-2020-14184/info</link>
+<description>Affected versions of Atlassian Jira Server allow remote attackers to inject arbitrary HTML or JavaScript via a Cross-Site Scripting (XSS) vulnerability in Jira issue filter export files. The affected versions are before 8.5.9, from version 8.6.0 before 8.12.3, and from version 8.13.0 before 8.13.1.</description>
+</item>
+<item>
+<title>CVE-2020-14183</title>
+<link>https://free.vulniq.com/data/CVE-2020-14183/info</link>
+<description>Affected versions of Jira Server & Data Center allow a remote attacker with limited (non-admin) privileges to view a Jira instance's Support Entitlement Number (SEN) via an Information Disclosure vulnerability in the HTTP Response headers. The affected versions are before version 7.13.18, from versi...</description>
+</item>
+<item>
+<title>CVE-2020-14181</title>
+<link>https://free.vulniq.com/data/CVE-2020-14181/info</link>
+<description>Affected versions of Atlassian Jira Server and Data Center allow an unauthenticated user to enumerate users via an Information Disclosure vulnerability in the /ViewUserHover.jspa endpoint. The affected versions are before version 7.13.6, from version 8.0.0 before 8.5.7, and from version 8.6.0 before...</description>
+</item>
+<item>
+<title>CVE-2020-14178</title>
+<link>https://free.vulniq.com/data/CVE-2020-14178/info</link>
+<description>Affected versions of Atlassian Jira Server and Data Center allow remote attackers to enumerate project keys via an Information Disclosure vulnerability in the /browse.PROJECTKEY endpoint. The affected versions are before version 7.13.7, from version 8.0.0 before 8.5.8, and from version 8.6.0 before ...</description>
+</item>
+<item>
+<title>CVE-2020-14175</title>
+<link>https://free.vulniq.com/data/CVE-2020-14175/info</link>
+<description>Affected versions of Atlassian Confluence Server and Data Center allow remote attackers to inject arbitrary HTML or JavaScript via a Cross-Site Scripting (XSS) vulnerability in user macro parameters. The affected versions are before version 7.4.2, and from version 7.5.0 before 7.5.2.</description>
+</item>
+<item>
+<title>CVE-2020-14174</title>
+<link>https://free.vulniq.com/data/CVE-2020-14174/info</link>
+<description>Affected versions of Atlassian Jira Server and Data Center allow remote attackers to view titles of a private project via an Insecure Direct Object References (IDOR) vulnerability in the Administration Permission Helper. The affected versions are before version 7.13.6, from version 8.0.0 before 8.5....</description>
+</item>
+<item>
+<title>CVE-2020-14173</title>
+<link>https://free.vulniq.com/data/CVE-2020-14173/info</link>
+<description>The file upload feature in Atlassian Jira Server and Data Center in affected versions allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability. The affected versions are before version 8.5.4, from version 8.6.0 before 8.6.2, and from version 8.7.0...</description>
+</item>
+<item>
+<title>CVE-2020-14172</title>
+<link>https://free.vulniq.com/data/CVE-2020-14172/info</link>
+<description>This issue exists to document that a security improvement in the way that Jira Server and Data Center use velocity templates has been implemented. The way in which velocity templates were used in Atlassian Jira Server and Data Center in affected versions allowed remote attackers to achieve remote co...</description>
+</item>
+<item>
+<title>CVE-2020-14169</title>
+<link>https://free.vulniq.com/data/CVE-2020-14169/info</link>
+<description>The quick search component in Atlassian Jira Server and Data Center before 8.9.1 allows remote attackers to inject arbitrary HTML or JavaScript via a Cross-Site Scripting (XSS) vulnerability</description>
+</item>
+<item>
+<title>CVE-2020-14168</title>
+<link>https://free.vulniq.com/data/CVE-2020-14168/info</link>
+<description>The email client in Jira Server and Data Center before version 7.13.16, from 8.5.0 before 8.5.7, from 8.8.0 before 8.8.2, and from 8.9.0 before 8.9.1 allows remote attackers to access outgoing emails between a Jira instance and the SMTP server via man-in-the-middle (MITM) vulnerability.</description>
+</item>
+<item>
+<title>CVE-2020-14167</title>
+<link>https://free.vulniq.com/data/CVE-2020-14167/info</link>
+<description>The MessageBundleResource resource in Jira Server and Data Center before version 7.13.4, from 8.5.0 before 8.5.5, from 8.8.0 before 8.8.2, and from 8.9.0 before 8.9.1 allows remote attackers to impact the application's availability via an Denial of Service (DoS) vulnerability.</description>
+</item>
+<item>
+<title>CVE-2020-14165</title>
+<link>https://free.vulniq.com/data/CVE-2020-14165/info</link>
+<description>The UniversalAvatarResource.getAvatars resource in Jira Server and Data Center before version 8.9.0 allows remote attackers to obtain information about custom project avatars names via an Improper authorization vulnerability.</description>
+</item>
+<item>
+<title>CVE-2020-14164</title>
+<link>https://free.vulniq.com/data/CVE-2020-14164/info</link>
+<description>The WYSIWYG editor resource in Jira Server and Data Center before version 8.8.2 allows remote attackers to inject arbitrary HTML or JavaScript names via an Cross Site Scripting (XSS) vulnerability by pasting javascript code into the editor field.</description>
+</item>
+<item>
+<title>CVE-2020-4029</title>
+<link>https://free.vulniq.com/data/CVE-2020-4029/info</link>
+<description>The /rest/project-templates/1.0/createshared resource in Atlassian Jira Server and Data Center before version 8.5.5, from 8.6.0 before 8.7.2, and from 8.8.0 before 8.8.1 allows remote attackers to enumerate project names via an improper authorization vulnerability.</description>
+</item>
+<item>
+<title>CVE-2020-4028</title>
+<link>https://free.vulniq.com/data/CVE-2020-4028/info</link>
+<description>Versions before 8.9.1, Various resources in Jira responded with a 404 instead of redirecting unauthenticated users to the login page, in some situations this may have allowed unauthorised attackers to determine if certain resources exist or not through an Information Disclosure vulnerability.</description>
+</item>
+<item>
+<title>CVE-2020-4027</title>
+<link>https://free.vulniq.com/data/CVE-2020-4027/info</link>
+<description>Affected versions of Atlassian Confluence Server and Data Center allowed remote attackers with system administration permissions to bypass velocity template injection mitigations via an injection vulnerability in custom user macros. The affected versions are before version 7.4.5, and from version 7....</description>
+</item>
+<item>
+<title>CVE-2020-4025</title>
+<link>https://free.vulniq.com/data/CVE-2020-4025/info</link>
+<description>The attachment download resource in Atlassian Jira Server and Data Center The attachment download resource in Atlassian Jira Server and Data Center before 8.5.5, and from 8.6.0 before 8.8.2, and from 8.9.0 before 8.9.1 allows remote attackers to inject arbitrary HTML or JavaScript via a Cross-Site S...</description>
+</item>
+<item>
+<title>CVE-2020-4024</title>
+<link>https://free.vulniq.com/data/CVE-2020-4024/info</link>
+<description>The attachment download resource in Atlassian Jira Server and Data Center before 8.5.5, and from 8.6.0 before 8.8.2, and from 8.9.0 before 8.9.1 allows remote attackers to inject arbitrary HTML or JavaScript via a Cross-Site Scripting (XSS) vulnerability issue attachments with a vnd.wap.xhtml+xml co...</description>
+</item>
+<item>
+<title>CVE-2020-4022</title>
+<link>https://free.vulniq.com/data/CVE-2020-4022/info</link>
+<description>The attachment download resource in Atlassian Jira Server and Data Center before 8.5.5, and from 8.6.0 before 8.8.2, and from 8.9.0 before 8.9.1 allows remote attackers to inject arbitrary HTML or JavaScript via a Cross-Site Scripting (XSS) vulnerability issue attachments with a mixed multipart cont...</description>
+</item>
+<item>
+<title>CVE-2020-4021</title>
+<link>https://free.vulniq.com/data/CVE-2020-4021/info</link>
+<description>Affected versions are: Before 8.5.5, and from 8.6.0 before 8.8.1 of Atlassian Jira Server and Data Center allow remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability in the XML export view.</description>
+</item>
+<item>
+<title>CVE-2019-20901</title>
+<link>https://free.vulniq.com/data/CVE-2019-20901/info</link>
+<description>The login.jsp resource in Jira before version 8.5.2, and from version 8.6.0 before version 8.6.1 allows remote attackers to redirect users to a different website which they may use as part of performing a phishing attack via an open redirect in the os_destination parameter.</description>
+</item>
+<item>
+<title>CVE-2019-20899</title>
+<link>https://free.vulniq.com/data/CVE-2019-20899/info</link>
+<description>The Gadget API in Atlassian Jira Server and Data Center in affected versions allows remote attackers to make Jira unresponsive via repeated requests to a certain endpoint in the Gadget API. The affected versions are before version 8.5.4, and from version 8.6.0 before 8.6.1.</description>
+</item>
+<item>
+<title>CVE-2019-20898</title>
+<link>https://free.vulniq.com/data/CVE-2019-20898/info</link>
+<description>Affected versions of Atlassian Jira Server and Data Center allow remote attackers to access sensitive information without being authenticated in the Global permissions screen. The affected versions are before version 8.8.0.</description>
+</item>
+<item>
+<title>CVE-2019-20897</title>
+<link>https://free.vulniq.com/data/CVE-2019-20897/info</link>
+<description>The avatar upload feature in affected versions of Atlassian Jira Server and Data Center allows remote attackers to achieve Denial of Service via a crafted PNG file. The affected versions are before version 8.5.4, from version 8.6.0 before 8.6.2, and from version 8.7.0 before 8.7.1.</description>
+</item>
+<item>
+<title>CVE-2019-20419</title>
+<link>https://free.vulniq.com/data/CVE-2019-20419/info</link>
+<description>Affected versions of Atlassian Jira Server and Data Center allow remote attackers to execute arbitrary code via a DLL hijacking vulnerability in Tomcat. The affected versions are before version 8.5.5, and from version 8.6.0 before 8.7.2.</description>
+</item>
+<item>
+<title>CVE-2019-20418</title>
+<link>https://free.vulniq.com/data/CVE-2019-20418/info</link>
+<description>Affected versions of Atlassian Jira Server and Data Center allow remote attackers to prevent users from accessing the instance via an Application Denial of Service vulnerability in the /rendering/wiki endpoint. The affected versions are before version 8.8.0.</description>
+</item>
+<item>
+<title>CVE-2019-20417</title>
+<link>https://free.vulniq.com/data/CVE-2019-20417/info</link>
+<description>NOTE: This candidate is a duplicate of CVE-2019-15011. All CVE users should reference CVE-2019-15011 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage.</description>
+</item>
+<item>
+<title>CVE-2019-20416</title>
+<link>https://free.vulniq.com/data/CVE-2019-20416/info</link>
+<description>Affected versions of Atlassian Jira Server and Data Center allow remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability in the project configuration feature. The affected versions are before version 8.3.0.</description>
+</item>
+<item>
+<title>CVE-2019-20415</title>
+<link>https://free.vulniq.com/data/CVE-2019-20415/info</link>
+<description>Atlassian Jira Server and Data Center in affected versions allows remote attackers to modify logging and profiling settings via a cross-site request forgery (CSRF) vulnerability. The affected versions are before version 7.13.3, and from version 8.0.0 before 8.1.0.</description>
+</item>
+<item>
+<title>CVE-2019-20414</title>
+<link>https://free.vulniq.com/data/CVE-2019-20414/info</link>
+<description>Affected versions of Atlassian Jira Server and Data Center allow remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability in Issue Navigator Basic Search. The affected versions are before version 7.13.9, and from version 8.0.0 before 8.4.2.</description>
+</item>
+<item>
+<title>CVE-2019-20413</title>
+<link>https://free.vulniq.com/data/CVE-2019-20413/info</link>
+<description>Affected versions of Atlassian Jira Server and Data Center allow remote attackers to impact the application's availability via a Denial of Service (DoS) vulnerability on the UserPickerBrowser.jspa page. The affected versions are before version 7.13.9, and from version 8.0.0 before 8.4.2.</description>
+</item>
+<item>
+<title>CVE-2019-20412</title>
+<link>https://free.vulniq.com/data/CVE-2019-20412/info</link>
+<description>The Convert Sub-Task to Issue page in affected versions of Atlassian Jira Server and Data Center allow remote attackers to enumerate the following information via an Improper Authentication vulnerability: Workflow names; Project Key, if it is part of the workflow name; Issue Keys; Issue Types; Statu...</description>
+</item>
+<item>
+<title>CVE-2019-20411</title>
+<link>https://free.vulniq.com/data/CVE-2019-20411/info</link>
+<description>Affected versions of Atlassian Jira Server and Data Center allow remote attackers to modify Wallboard settings via a Cross-site request forgery (CSRF) vulnerability. The affected versions are before version 7.13.9, and from version 8.0.0 before 8.4.2.</description>
+</item>
+<item>
+<title>CVE-2019-20410</title>
+<link>https://free.vulniq.com/data/CVE-2019-20410/info</link>
+<description>Affected versions of Atlassian Jira Server and Data Center allow remote attackers to view sensitive information via an Information Disclosure vulnerability in the comment restriction feature. The affected versions are before version 7.6.17, from version 7.7.0 before 7.13.9, and from version 8.0.0 be...</description>
+</item>
+<item>
+<title>CVE-2019-20409</title>
+<link>https://free.vulniq.com/data/CVE-2019-20409/info</link>
+<description>The way in which velocity templates were used in Atlassian Jira Server and Data Center prior to version 8.8.0 allowed remote attackers to gain remote code execution if they were able to exploit a server side template injection vulnerability.</description>
+</item>
+<item>
+<title>CVE-2019-20408</title>
+<link>https://free.vulniq.com/data/CVE-2019-20408/info</link>
+<description>The /plugins/servlet/gadgets/makeRequest resource in Jira before version 8.7.0 allows remote attackers to access the content of internal network resources via a Server Side Request Forgery (SSRF) vulnerability due to a logic bug in the JiraWhitelist class.</description>
+</item>
+<item>
+<title>CVE-2019-20406</title>
+<link>https://free.vulniq.com/data/CVE-2019-20406/info</link>
+<description>The usage of Tomcat in Confluence on the Microsoft Windows operating system before version 7.0.5, and from version 7.1.0 before version 7.1.1 allows local system attackers who have permission to write a DLL file in a directory in the global path environmental variable variable to inject code & escal...</description>
+</item>
+<item>
+<title>CVE-2019-20402</title>
+<link>https://free.vulniq.com/data/CVE-2019-20402/info</link>
+<description>Support zip files in Atlassian Jira Server and Data Center before version 8.6.0 could be downloaded by a System Administrator user without requiring the user to re-enter their password via an improper authorization vulnerability.</description>
+</item>
+<item>
+<title>CVE-2019-20106</title>
+<link>https://free.vulniq.com/data/CVE-2019-20106/info</link>
+<description>Comment properties in Atlassian Jira Server and Data Center before version 7.13.12, from 8.0.0 before version 8.5.4, and 8.6.0 before version 8.6.1 allows remote attackers to make comments on a ticket to which they do not have commenting permissions via a broken access control bug.</description>
+</item>
+<item>
+<title>CVE-2019-20100</title>
+<link>https://free.vulniq.com/data/CVE-2019-20100/info</link>
+<description>The Atlassian Application Links plugin is vulnerable to cross-site request forgery (CSRF). The following versions are affected: all versions prior to 5.4.21, from version 6.0.0 before version 6.0.12, from version 6.1.0 before version 6.1.2, from version 7.0.0 before version 7.0.2, and from version 7...</description>
+</item>
+<item>
+<title>CVE-2019-20099</title>
+<link>https://free.vulniq.com/data/CVE-2019-20099/info</link>
+<description>The VerifyPopServerConnection!add.jspa component in Atlassian Jira Server and Data Center before version 8.7.0 is vulnerable to cross-site request forgery (CSRF). An attacker could exploit this by tricking an administrative user into making malicious HTTP requests, allowing the attacker to enumerate...</description>
+</item>
+<item>
+<title>CVE-2019-20098</title>
+<link>https://free.vulniq.com/data/CVE-2019-20098/info</link>
+<description>The VerifySmtpServerConnection!add.jspa component in Atlassian Jira Server and Data Center before version 8.7.0 is vulnerable to cross-site request forgery (CSRF). An attacker could exploit this by tricking an administrative user into making malicious HTTP requests, allowing the attacker to enumerat...</description>
+</item>
+<item>
+<title>CVE-2019-15013</title>
+<link>https://free.vulniq.com/data/CVE-2019-15013/info</link>
+<description>The WorkflowResource class removeStatus method in Jira before version 7.13.12, from version 8.0.0 before version 8.4.3, and from version 8.5.0 before version 8.5.2 allows authenticated remote attackers who do not have project administration access to remove a configured issue status from a project v...</description>
+</item>
+<item>
+<title>CVE-2019-15005</title>
+<link>https://free.vulniq.com/data/CVE-2019-15005/info</link>
+<description>The Atlassian Troubleshooting and Support Tools plugin prior to version 1.17.2 allows an unprivileged user to initiate periodic log scans and send the results to a user-specified email address due to a missing authorization check. The email message may contain configuration information about the app...</description>
+</item>
+<item>
+<title>CVE-2019-11588</title>
+<link>https://free.vulniq.com/data/CVE-2019-11588/info</link>
+<description>The ViewSystemInfo class doGarbageCollection method in Jira before version 7.13.6, from version 8.0.0 before version 8.2.3, and from version 8.3.0 before version 8.3.2 allows remote attackers to trigger garbage collection via a Cross-site request forgery (CSRF) vulnerability.</description>
+</item>
+<item>
+<title>CVE-2019-11587</title>
+<link>https://free.vulniq.com/data/CVE-2019-11587/info</link>
+<description>Various exposed resources of the ViewLogging class in Jira before version 7.13.6, from version 8.0.0 before version 8.2.3, and from version 8.3.0 before version 8.3.2 allow remote attackers to modify various settings via Cross-site request forgery (CSRF).</description>
+</item>
+<item>
+<title>CVE-2019-11586</title>
+<link>https://free.vulniq.com/data/CVE-2019-11586/info</link>
+<description>The AddResolution.jspa resource in Jira before version 7.13.6, from version 8.0.0 before version 8.2.3, and from version 8.3.0 before version 8.3.2 allows remote attackers to create new resolutions via a Cross-site request forgery (CSRF) vulnerability.</description>
+</item>
+<item>
+<title>CVE-2019-11585</title>
+<link>https://free.vulniq.com/data/CVE-2019-11585/info</link>
+<description>The startup.jsp resource in Jira before version 7.13.6, from version 8.0.0 before version 8.2.3, and from version 8.3.0 before version 8.3.2 allows remote attackers to redirect users to a different website which they may use as part of performing a phishing attack via an open redirect.</description>
+</item>
+<item>
+<title>CVE-2019-11584</title>
+<link>https://free.vulniq.com/data/CVE-2019-11584/info</link>
+<description>The MigratePriorityScheme resource in Jira before version 8.3.2 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability in the priority icon url of an issue priority.</description>
+</item>
+<item>
+<title>CVE-2019-11583</title>
+<link>https://free.vulniq.com/data/CVE-2019-11583/info</link>
+<description>The issue searching component in Jira before version 8.1.0 allows remote attackers to deny access to Jira service via denial of service vulnerability in issue search when ordering by "Epic Name".</description>
+</item>
+<item>
+<title>CVE-2019-11581</title>
+<link>https://free.vulniq.com/data/CVE-2019-11581/info</link>
+<description>There was a server-side template injection vulnerability in Jira Server and Data Center, in the ContactAdministrators and the SendBulkMail actions. An attacker is able to remotely execute code on systems that run a vulnerable version of Jira Server or Data Center. All versions of Jira Server and Dat...</description>
+</item>
+<item>
+<title>CVE-2019-8449</title>
+<link>https://free.vulniq.com/data/CVE-2019-8449/info</link>
+<description>The /rest/api/latest/groupuserpicker resource in Jira before version 8.4.0 allows remote attackers to enumerate usernames via an information disclosure vulnerability.</description>
+</item>
+<item>
+<title>CVE-2019-8443</title>
+<link>https://free.vulniq.com/data/CVE-2019-8443/info</link>
+<description>The ViewUpgrades resource in Jira before version 7.13.4, from version 8.0.0 before version 8.0.4, and from version 8.1.0 before version 8.1.1 allows remote attackers who have obtained access to administrator's session to access the ViewUpgrades administrative resource without needing to re-authentic...</description>
+</item>
+<item>
+<title>CVE-2019-8442</title>
+<link>https://free.vulniq.com/data/CVE-2019-8442/info</link>
+<description>The CachingResourceDownloadRewriteRule class in Jira before version 7.13.4, and from version 8.0.0 before version 8.0.4, and from version 8.1.0 before version 8.1.1 allows remote attackers to access files in the Jira webroot under the META-INF directory via a lax path access check.</description>
+</item>
+<item>
+<title>CVE-2019-3403</title>
+<link>https://free.vulniq.com/data/CVE-2019-3403/info</link>
+<description>The /rest/api/2/user/picker rest resource in Jira before version 7.13.3, from version 8.0.0 before version 8.0.4, and from version 8.1.0 before version 8.1.1 allows remote attackers to enumerate usernames via an incorrect authorisation check.</description>
+</item>
+<item>
+<title>CVE-2019-3402</title>
+<link>https://free.vulniq.com/data/CVE-2019-3402/info</link>
+<description>The ConfigurePortalPages.jspa resource in Jira before version 7.13.3 and from version 8.0.0 before version 8.1.1 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability in the searchOwnerUserName parameter.</description>
+</item>
+<item>
+<title>CVE-2019-3401</title>
+<link>https://free.vulniq.com/data/CVE-2019-3401/info</link>
+<description>The ManageFilters.jspa resource in Jira before version 7.13.3 and from version 8.0.0 before version 8.1.1 allows remote attackers to enumerate usernames via an incorrect authorisation check.</description>
+</item>
+<item>
+<title>CVE-2019-3400</title>
+<link>https://free.vulniq.com/data/CVE-2019-3400/info</link>
+<description>The labels gadget in Jira before version 7.13.2, and from version 8.0.0 before version 8.0.2 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability in the jql parameter.</description>
+</item>
+<item>
+<title>CVE-2019-3399</title>
+<link>https://free.vulniq.com/data/CVE-2019-3399/info</link>
+<description>The BrowseProjects.jspa resource in Jira before version 7.13.2, and from version 8.0.0 before version 8.0.2 allows remote attackers to see information for archived projects through a missing authorisation check.</description>
+</item>
+<item>
+<title>CVE-2019-3398</title>
+<link>https://free.vulniq.com/data/CVE-2019-3398/info</link>
+<description>Confluence Server and Data Center had a path traversal vulnerability in the downloadallattachments resource. A remote attacker who has permission to add attachments to pages and / or blogs or to create a new space or a personal space or who has 'Admin' permissions for a space can exploit this path t...</description>
+</item>
+<item>
+<title>CVE-2019-3396</title>
+<link>https://free.vulniq.com/data/CVE-2019-3396/info</link>
+<description>The Widget Connector macro in Atlassian Confluence Server before version 6.6.12 (the fixed version for 6.6.x), from version 6.7.0 before 6.12.3 (the fixed version for 6.12.x), from version 6.13.0 before 6.13.3 (the fixed version for 6.13.x), and from version 6.14.0 before 6.14.2 (the fixed version f...</description>
+</item>
+<item>
+<title>CVE-2019-3395</title>
+<link>https://free.vulniq.com/data/CVE-2019-3395/info</link>
+<description>The WebDAV endpoint in Atlassian Confluence Server and Data Center before version 6.6.7 (the fixed version for 6.6.x), from version 6.7.0 before 6.8.5 (the fixed version for 6.8.x), and from version 6.9.0 before 6.9.3 (the fixed version for 6.9.x) allows remote attackers to send arbitrary HTTP and W...</description>
+</item>
+<item>
+<title>CVE-2018-20827</title>
+<link>https://free.vulniq.com/data/CVE-2018-20827/info</link>
+<description>The activity stream gadget in Jira before version 7.13.1 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability in the country parameter.</description>
+</item>
+<item>
+<title>CVE-2018-20826</title>
+<link>https://free.vulniq.com/data/CVE-2018-20826/info</link>
+<description>The inline-create rest resource in Jira before version 7.12.3 allows authenticated remote attackers to set the reporter in issues via a missing authorisation check.</description>
+</item>
+<item>
+<title>CVE-2018-20824</title>
+<link>https://free.vulniq.com/data/CVE-2018-20824/info</link>
+<description>The WallboardServlet resource in Jira before version 7.13.1 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability in the cyclePeriod parameter.</description>
+</item>
+<item>
+<title>CVE-2018-20237</title>
+<link>https://free.vulniq.com/data/CVE-2018-20237/info</link>
+<description>Atlassian Confluence Server and Data Center before version 6.13.1 allows an authenticated user to download a deleted page via the word export feature.</description>
+</item>
+<item>
+<title>CVE-2018-20232</title>
+<link>https://free.vulniq.com/data/CVE-2018-20232/info</link>
+<description>The labels widget gadget in Atlassian Jira before version 7.6.11 and from version 7.7.0 before version 7.13.1 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability in the rendering of retrieved content from a url location that could be manipula...</description>
+</item>
+<item>
+<title>CVE-2018-13404</title>
+<link>https://free.vulniq.com/data/CVE-2018-13404/info</link>
+<description>The VerifyPopServerConnection resource in Atlassian Jira before version 7.6.10, from version 7.7.0 before version 7.7.5, from version 7.8.0 before version 7.8.5, from version 7.9.0 before version 7.9.3, from version 7.10.0 before version 7.10.3, from version 7.11.0 before version 7.11.3, from versio...</description>
+</item>
+<item>
+<title>CVE-2018-13403</title>
+<link>https://free.vulniq.com/data/CVE-2018-13403/info</link>
+<description>The two-dimensional filter statistics gadget in Atlassian Jira before version 7.6.10, from version 7.7.0 before version 7.12.4, and from version 7.13.0 before version 7.13.1 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability in the name of a...</description>
+</item>
+<item>
+<title>CVE-2018-13402</title>
+<link>https://free.vulniq.com/data/CVE-2018-13402/info</link>
+<description>Many resources in Atlassian Jira before version 7.6.9, from version 7.7.0 before version 7.7.5, from version 7.8.0 before version 7.8.5, from version 7.9.0 before version 7.9.3, from version 7.10.0 before version 7.10.3, from version 7.11.0 before version 7.11.3, from version 7.12.0 before version 7...</description>
+</item>
+<item>
+<title>CVE-2018-13401</title>
+<link>https://free.vulniq.com/data/CVE-2018-13401/info</link>
+<description>The XsrfErrorAction resource in Atlassian Jira before version 7.6.9, from version 7.7.0 before version 7.7.5, from version 7.8.0 before version 7.8.5, from version 7.9.0 before version 7.9.3, from version 7.10.0 before version 7.10.3, from version 7.11.0 before version 7.11.3, from version 7.12.0 be...</description>
+</item>
+<item>
+<title>CVE-2018-13400</title>
+<link>https://free.vulniq.com/data/CVE-2018-13400/info</link>
+<description>Several administrative resources in Atlassian Jira before version 7.6.9, from version 7.7.0 before version 7.7.5, from version 7.8.0 before version 7.8.5, from version 7.9.0 before version 7.9.3, from version 7.10.0 before version 7.10.3, from version 7.11.0 before version 7.11.3, from version 7.12....</description>
+</item>
+<item>
+<title>CVE-2018-13395</title>
+<link>https://free.vulniq.com/data/CVE-2018-13395/info</link>
+<description>Various resources in Atlassian Jira before version 7.6.8, from version 7.7.0 before version 7.7.5, from version 7.8.0 before version 7.8.5, from version 7.9.0 before version 7.9.3, from version 7.10.0 before version 7.10.3 and before version 7.11.1 allow remote attackers to inject arbitrary HTML or ...</description>
+</item>
+<item>
+<title>CVE-2018-13391</title>
+<link>https://free.vulniq.com/data/CVE-2018-13391/info</link>
+<description>The ProfileLinkUserFormat component of Jira Server before version 7.6.8, from version 7.7.0 before version 7.7.5, from version 7.8.0 before version 7.8.5, from version 7.9.0 before version 7.9.3, from version 7.10.0 before version 7.10.3 and from version 7.11.0 before version 7.11.2 allows remote at...</description>
+</item>
+<item>
+<title>CVE-2018-13389</title>
+<link>https://free.vulniq.com/data/CVE-2018-13389/info</link>
+<description>The attachment resource in Atlassian Confluence before version 6.6.1 allows remote attackers to spoof web content in the Mozilla Firefox Browser through attachments that have a content-type of application/rdf+xml.</description>
+</item>
+<item>
+<title>CVE-2018-13387</title>
+<link>https://free.vulniq.com/data/CVE-2018-13387/info</link>
+<description>The IncomingMailServers resource in Atlassian JIRA Server before version 7.6.7, from version 7.7.0 before version 7.7.5, from version 7.8.0 before version 7.8.5, from version 7.9.0 before version 7.9.3 and from version 7.10.0 before version 7.10.2 allows remote attackers to inject arbitrary HTML or ...</description>
+</item>
+<item>
+<title>CVE-2018-5232</title>
+<link>https://free.vulniq.com/data/CVE-2018-5232/info</link>
+<description>The EditIssue.jspa resource in Atlassian Jira before version 7.6.7 and from version 7.7.0 before version 7.10.1 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability in the issuetype parameter.</description>
+</item>
+<item>
+<title>CVE-2018-5231</title>
+<link>https://free.vulniq.com/data/CVE-2018-5231/info</link>
+<description>The ForgotLoginDetails resource in Atlassian Jira before version 7.6.6, from version 7.7.0 before version 7.7.4, from version 7.8.0 before version 7.8.4 and from version 7.9.0 before version 7.9.2 allows remote attackers to perform a denial of service attack via sending requests to it.</description>
+</item>
+<item>
+<title>CVE-2018-5230</title>
+<link>https://free.vulniq.com/data/CVE-2018-5230/info</link>
+<description>The issue collector in Atlassian Jira before version 7.6.6, from version 7.7.0 before version 7.7.4, from version 7.8.0 before version 7.8.4 and from version 7.9.0 before version 7.9.2 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability in th...</description>
+</item>
+<item>
+<title>CVE-2017-18104</title>
+<link>https://free.vulniq.com/data/CVE-2017-18104/info</link>
+<description>The Webhooks component of Atlassian Jira before version 7.6.7 and from version 7.7.0 before version 7.11.0 allows remote attackers who are able to observe or otherwise intercept webhook events to learn information about changes in issues that should not be sent because they are not contained within ...</description>
+</item>
+<item>
+<title>CVE-2017-18101</title>
+<link>https://free.vulniq.com/data/CVE-2017-18101/info</link>
+<description>Various administrative external system import resources in Atlassian JIRA Server (including JIRA Core) before version 7.6.5, from version 7.7.0 before version 7.7.3, from version 7.8.0 before version 7.8.3 and before version 7.9.0 allow remote attackers to run import operations and to determine if a...</description>
+</item>
+<item>
+<title>CVE-2017-18100</title>
+<link>https://free.vulniq.com/data/CVE-2017-18100/info</link>
+<description>The agile wallboard gadget in Atlassian Jira before version 7.8.1 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability in the name of quick filters.</description>
+</item>
+<item>
+<title>CVE-2017-18098</title>
+<link>https://free.vulniq.com/data/CVE-2017-18098/info</link>
+<description>The searchrequest-xml resource in Atlassian Jira before version 7.6.1 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability through various fields.</description>
+</item>
+<item>
+<title>CVE-2017-18097</title>
+<link>https://free.vulniq.com/data/CVE-2017-18097/info</link>
+<description>The Trello board importer resource in Atlassian Jira before version 7.6.1 allows remote attackers who can convince a Jira administrator to import their Trello board to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability in the title of a Trello card.</description>
+</item>
+<item>
+<title>CVE-2017-18086</title>
+<link>https://free.vulniq.com/data/CVE-2017-18086/info</link>
+<description>Various resources in Atlassian Confluence Server before version 6.4.2 allow remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability in the issuesURL parameter.</description>
+</item>
+<item>
+<title>CVE-2017-18085</title>
+<link>https://free.vulniq.com/data/CVE-2017-18085/info</link>
+<description>The viewdefaultdecorator resource in Atlassian Confluence Server before version 6.6.1 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability through the key parameter.</description>
+</item>
+<item>
+<title>CVE-2017-18084</title>
+<link>https://free.vulniq.com/data/CVE-2017-18084/info</link>
+<description>The usermacros resource in Atlassian Confluence Server before version 6.3.4 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability through the description of a macro.</description>
+</item>
+<item>
+<title>CVE-2017-18083</title>
+<link>https://free.vulniq.com/data/CVE-2017-18083/info</link>
+<description>The editinword resource in Atlassian Confluence Server before version 6.4.0 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability through the contents of an uploaded file.</description>
+</item>
+<item>
+<title>CVE-2017-18039</title>
+<link>https://free.vulniq.com/data/CVE-2017-18039/info</link>
+<description>The IncomingMailServers resource in Atlassian Jira from version 6.2.1 before version 7.4.4 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability in the messagesThreshold parameter.</description>
+</item>
+<item>
+<title>CVE-2017-18033</title>
+<link>https://free.vulniq.com/data/CVE-2017-18033/info</link>
+<description>The Jira-importers-plugin in Atlassian Jira before version 7.6.1 allows remote attackers to create new projects and abort an executing external system import via various Cross-site request forgery (CSRF) vulnerabilities.</description>
+</item>
+<item>
+<title>CVE-2017-16865</title>
+<link>https://free.vulniq.com/data/CVE-2017-16865/info</link>
+<description>The Trello importer in Atlassian Jira before version 7.6.1 allows remote attackers to access the content of internal network resources via a Server Side Request Forgery (SSRF). When running in an environment like Amazon EC2, this flaw maybe used to access to a metadata resource that provides access ...</description>
+</item>
+<item>
+<title>CVE-2017-16864</title>
+<link>https://free.vulniq.com/data/CVE-2017-16864/info</link>
+<description>The issue search resource in Atlassian Jira before version 7.4.2 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability in the orderby parameter.</description>
+</item>
+<item>
+<title>CVE-2017-16863</title>
+<link>https://free.vulniq.com/data/CVE-2017-16863/info</link>
+<description>The PieChart gadget in Atlassian Jira before version 7.5.3 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability through the name of a project or filter.</description>
+</item>
+<item>
+<title>CVE-2017-16862</title>
+<link>https://free.vulniq.com/data/CVE-2017-16862/info</link>
+<description>The IncomingMailServers resource in Atlassian Jira before version 7.6.2 allows remote attackers to modify the "incoming mail" whitelist setting via a Cross-site request forgery (CSRF) vulnerability.</description>
+</item>
+<item>
+<title>CVE-2017-16856</title>
+<link>https://free.vulniq.com/data/CVE-2017-16856/info</link>
+<description>The RSS Feed macro in Atlassian Confluence before version 6.5.2 allows remote attackers to inject arbitrary HTML or JavaScript via cross site scripting (XSS) vulnerabilities in various rss properties which were used as links without restriction on their scheme.</description>
+</item>
+<item>
+<title>CVE-2017-14594</title>
+<link>https://free.vulniq.com/data/CVE-2017-14594/info</link>
+<description>The printable searchrequest issue resource in Atlassian Jira before version 7.2.12 and from version 7.3.0 before 7.6.1 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability in the jqlQuery query parameter.</description>
+</item>
+<item>
+<title>CVE-2017-9505</title>
+<link>https://free.vulniq.com/data/CVE-2017-9505/info</link>
+<description>Atlassian Confluence starting with 4.3.0 before 6.2.1 did not check if a user had permission to view a page when creating a workbox notification about new comments. An attacker who can login to Confluence could receive workbox notifications, which contain the content of comments, for comments added ...</description>
+</item>
+<item>
+<title>CVE-2017-7415</title>
+<link>https://free.vulniq.com/data/CVE-2017-7415/info</link>
+<description>Atlassian Confluence 6.x before 6.0.7 allows remote attackers to bypass authentication and read any blog or page via the drafts diff REST resource.</description>
+</item>
+<item>
+<title>CVE-2016-6285</title>
+<link>https://free.vulniq.com/data/CVE-2016-6285/info</link>
+<description>Cross-site scripting (XSS) vulnerability in includes/decorators/global-translations.jsp in Atlassian JIRA before 7.2.2 allows remote attackers to inject arbitrary web script or HTML via the HTTP Host header.</description>
+</item>
+<item>
+<title>CVE-2016-4319</title>
+<link>https://free.vulniq.com/data/CVE-2016-4319/info</link>
+<description>Atlassian JIRA Server before 7.1.9 has CSRF in auditing/settings.</description>
+</item>
+<item>
+<title>CVE-2016-4318</title>
+<link>https://free.vulniq.com/data/CVE-2016-4318/info</link>
+<description>Atlassian JIRA Server before 7.1.9 has XSS in project/ViewDefaultProjectRoleActors.jspa via a role name.</description>
+</item>
+</channel></rss>
