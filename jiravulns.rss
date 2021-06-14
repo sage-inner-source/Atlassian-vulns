@@ -6,6 +6,16 @@
 <description>Security vulnerability feed</description>
 <language>en-us</language>
 <item>
+<title>CVE-2021-26080</title>
+<link>https://free.vulniq.com/data/CVE-2021-26080/info</link>
+<description>EditworkflowScheme.jspa in Jira Server and Jira Data Center before version 8.5.14, and from version 8.6.0 before version 8.13.6, and from 8.14.0 before 8.16.1 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability.</description>
+</item>
+<item>
+<title>CVE-2021-26078</title>
+<link>https://free.vulniq.com/data/CVE-2021-26078/info</link>
+<description>The number range searcher component in Jira Server and Jira Data Center before version 8.5.14, from version 8.6.0 before version 8.13.6, and from version 8.14.0 before version 8.16.1 allows remote attackers inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability.</description>
+</item>
+<item>
 <title>CVE-2021-26071</title>
 <link>https://free.vulniq.com/data/CVE-2021-26071/info</link>
 <description>The SetFeatureEnabled.jspa resource in Jira Server and Data Center before version 8.5.13, from version 8.6.0 before version 8.13.5, and from version 8.14.0 before version 8.15.1 allows remote anonymous attackers to enable and disable Jira Software configuration via a cross-site request forgery (CSRF...</description>
@@ -579,10 +589,5 @@
 <title>CVE-2016-4319</title>
 <link>https://free.vulniq.com/data/CVE-2016-4319/info</link>
 <description>Atlassian JIRA Server before 7.1.9 has CSRF in auditing/settings.</description>
-</item>
-<item>
-<title>CVE-2016-4318</title>
-<link>https://free.vulniq.com/data/CVE-2016-4318/info</link>
-<description>Atlassian JIRA Server before 7.1.9 has XSS in project/ViewDefaultProjectRoleActors.jspa via a role name.</description>
 </item>
 </channel></rss>
