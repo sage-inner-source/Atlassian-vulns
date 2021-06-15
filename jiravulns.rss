@@ -31,6 +31,21 @@
 <description>Affected versions of Atlassian Jira Server and Data Center allow unauthenticated remote attackers to download temporary files and enumerate project keys via an Information Disclosure vulnerability in the /rest/api/1.0/issues/{id}/ActionsAndOperations API endpoint. The affected versions are before ve...</description>
 </item>
 <item>
+<title>CVE-2020-36289</title>
+<link>https://free.vulniq.com/data/CVE-2020-36289/info</link>
+<description>Affected versions of Atlassian Jira Server and Data Center allow an unauthenticated user to enumerate users via an Information Disclosure vulnerability in the QueryComponentRendererValue!Default.jspa endpoint. The affected versions are before version 8.5.13, from version 8.6.0 before 8.13.5, and fro...</description>
+</item>
+<item>
+<title>CVE-2020-36288</title>
+<link>https://free.vulniq.com/data/CVE-2020-36288/info</link>
+<description>The issue navigation and search view in Jira Server and Data Center before version 8.5.12, from version 8.6.0 before version 8.13.4, and from version 8.14.0 before version 8.15.1 allows remote attackers to inject arbitrary HTML or JavaScript via a DOM Cross-Site Scripting (XSS) vulnerability caused ...</description>
+</item>
+<item>
+<title>CVE-2020-36287</title>
+<link>https://free.vulniq.com/data/CVE-2020-36287/info</link>
+<description>The dashboard gadgets preference resource of the Atlassian gadgets plugin used in Jira Server and Jira Data Center before version 8.13.5, and from version 8.14.0 before version 8.15.1 allows remote anonymous attackers to obtain gadget related settings via a missing permissions check.</description>
+</item>
+<item>
 <title>CVE-2020-36286</title>
 <link>https://free.vulniq.com/data/CVE-2020-36286/info</link>
 <description>The membersOf JQL search function in Jira Server and Data Center before version 8.5.13, from version 8.6.0 before version 8.13.5, and from version 8.14.0 before version 8.15.1 allows remote anonymous attackers to determine if a group exists & members of groups if they are assigned to publicly visibl...</description>
@@ -79,6 +94,16 @@
 <title>CVE-2020-29448</title>
 <link>https://free.vulniq.com/data/CVE-2020-29448/info</link>
 <description>The ConfluenceResourceDownloadRewriteRule class in Confluence Server and Confluence Data Center before version 6.13.18, from 6.14.0 before 7.4.6, and from 7.5.0 before 7.8.3 allowed unauthenticated remote attackers to read arbitrary files within WEB-INF and META-INF directories via an incorrect path...</description>
+</item>
+<item>
+<title>CVE-2020-29445</title>
+<link>https://free.vulniq.com/data/CVE-2020-29445/info</link>
+<description>Affected versions of Confluence Server before 7.11.0 allow attackers to identify internal hosts and ports via a blind server-side request forgery vulnerability in Team Calendars parameters.</description>
+</item>
+<item>
+<title>CVE-2020-29444</title>
+<link>https://free.vulniq.com/data/CVE-2020-29444/info</link>
+<description>Affected versions of Team Calendar in Confluence Server before 7.11.0 allow attackers to inject arbitrary HTML or Javascript via a Cross Site Scripting Vulnerability in admin global setting parameters.</description>
 </item>
 <item>
 <title>CVE-2020-14193</title>
@@ -574,15 +599,5 @@
 <title>CVE-2016-6285</title>
 <link>https://free.vulniq.com/data/CVE-2016-6285/info</link>
 <description>Cross-site scripting (XSS) vulnerability in includes/decorators/global-translations.jsp in Atlassian JIRA before 7.2.2 allows remote attackers to inject arbitrary web script or HTML via the HTTP Host header.</description>
-</item>
-<item>
-<title>CVE-2016-4319</title>
-<link>https://free.vulniq.com/data/CVE-2016-4319/info</link>
-<description>Atlassian JIRA Server before 7.1.9 has CSRF in auditing/settings.</description>
-</item>
-<item>
-<title>CVE-2016-4318</title>
-<link>https://free.vulniq.com/data/CVE-2016-4318/info</link>
-<description>Atlassian JIRA Server before 7.1.9 has XSS in project/ViewDefaultProjectRoleActors.jspa via a role name.</description>
 </item>
 </channel></rss>
