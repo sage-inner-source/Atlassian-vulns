@@ -11,6 +11,11 @@
 <description>EditworkflowScheme.jspa in Jira Server and Jira Data Center before version 8.5.14, and from version 8.6.0 before version 8.13.6, and from 8.14.0 before 8.16.1 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability.</description>
 </item>
 <item>
+<title>CVE-2021-26079</title>
+<link>https://free.vulniq.com/data/CVE-2021-26079/info</link>
+<description>The CardLayoutConfigTable component in Jira Server and Jira Data Center before version 8.5.15, and from version 8.6.0 before version 8.13.7, and from version 8.14.0 before 8.17.0 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability.</description>
+</item>
+<item>
 <title>CVE-2021-26078</title>
 <link>https://free.vulniq.com/data/CVE-2021-26078/info</link>
 <description>The number range searcher component in Jira Server and Jira Data Center before version 8.5.14, from version 8.6.0 before version 8.13.6, and from version 8.14.0 before version 8.16.1 allows remote attackers inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability.</description>
@@ -579,11 +584,6 @@
 <title>CVE-2017-16863</title>
 <link>https://free.vulniq.com/data/CVE-2017-16863/info</link>
 <description>The PieChart gadget in Atlassian Jira before version 7.5.3 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability through the name of a project or filter.</description>
-</item>
-<item>
-<title>CVE-2017-16862</title>
-<link>https://free.vulniq.com/data/CVE-2017-16862/info</link>
-<description>The IncomingMailServers resource in Atlassian Jira before version 7.6.2 allows remote attackers to modify the "incoming mail" whitelist setting via a Cross-site request forgery (CSRF) vulnerability.</description>
 </item>
 <item>
 <title>CVE-2017-16856</title>
