@@ -16,6 +16,16 @@
 <description>The number range searcher component in Jira Server and Jira Data Center before version 8.5.14, from version 8.6.0 before version 8.13.6, and from version 8.14.0 before version 8.16.1 allows remote attackers inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability.</description>
 </item>
 <item>
+<title>CVE-2021-26076</title>
+<link>https://free.vulniq.com/data/CVE-2021-26076/info</link>
+<description>The jira.editor.user.mode cookie set by the Jira Editor Plugin in Jira Server and Data Center before version 8.5.12, from version 8.6.0 before version 8.13.4, and from version 8.14.0 before version 8.15.0 allows remote anonymous attackers who can perform an attacker in the middle attack to learn whi...</description>
+</item>
+<item>
+<title>CVE-2021-26075</title>
+<link>https://free.vulniq.com/data/CVE-2021-26075/info</link>
+<description>The Jira importers plugin AttachTemporaryFile rest resource in Jira Server and Data Center before version 8.5.12, from version 8.6.0 before 8.13.4, and from version 8.14.0 before 8.15.1 allowed remote authenticated attackers to obtain the full path of the Jira application data directory via an infor...</description>
+</item>
+<item>
 <title>CVE-2021-26071</title>
 <link>https://free.vulniq.com/data/CVE-2021-26071/info</link>
 <description>The SetFeatureEnabled.jspa resource in Jira Server and Data Center before version 8.5.13, from version 8.6.0 before version 8.13.5, and from version 8.14.0 before version 8.15.1 allows remote anonymous attackers to enable and disable Jira Software configuration via a cross-site request forgery (CSRF...</description>
@@ -581,11 +591,6 @@
 <description>The RSS Feed macro in Atlassian Confluence before version 6.5.2 allows remote attackers to inject arbitrary HTML or JavaScript via cross site scripting (XSS) vulnerabilities in various rss properties which were used as links without restriction on their scheme.</description>
 </item>
 <item>
-<title>CVE-2017-14594</title>
-<link>https://free.vulniq.com/data/CVE-2017-14594/info</link>
-<description>The printable searchrequest issue resource in Atlassian Jira before version 7.2.12 and from version 7.3.0 before 7.6.1 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability in the jqlQuery query parameter.</description>
-</item>
-<item>
 <title>CVE-2017-9505</title>
 <link>https://free.vulniq.com/data/CVE-2017-9505/info</link>
 <description>Atlassian Confluence starting with 4.3.0 before 6.2.1 did not check if a user had permission to view a page when creating a workbox notification about new comments. An attacker who can login to Confluence could receive workbox notifications, which contain the content of comments, for comments added ...</description>
@@ -594,10 +599,5 @@
 <title>CVE-2017-7415</title>
 <link>https://free.vulniq.com/data/CVE-2017-7415/info</link>
 <description>Atlassian Confluence 6.x before 6.0.7 allows remote attackers to bypass authentication and read any blog or page via the drafts diff REST resource.</description>
-</item>
-<item>
-<title>CVE-2016-6285</title>
-<link>https://free.vulniq.com/data/CVE-2016-6285/info</link>
-<description>Cross-site scripting (XSS) vulnerability in includes/decorators/global-translations.jsp in Atlassian JIRA before 7.2.2 allows remote attackers to inject arbitrary web script or HTML via the HTTP Host header.</description>
 </item>
 </channel></rss>
