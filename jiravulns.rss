@@ -6,6 +6,21 @@
 <description>Security vulnerability feed</description>
 <language>en-us</language>
 <item>
+<title>CVE-2021-26083</title>
+<link>https://free.vulniq.com/data/CVE-2021-26083/info</link>
+<description>Export HTML Report in Atlassian Jira Server and Jira Data Center before version 8.5.14, from version 8.6.0 before 8.13.6, and from version 8.14.0 before 8.16.1 allows remote attackers to inject arbitrary HTML or JavaScript via a Cross-Site Scripting (XSS) vulnerability.</description>
+</item>
+<item>
+<title>CVE-2021-26082</title>
+<link>https://free.vulniq.com/data/CVE-2021-26082/info</link>
+<description>The XML Export in Atlassian Jira Server and Jira Data Center before version 8.5.14, from version 8.6.0 before 8.13.6, and from version 8.14.0 before 8.17.0 allows remote attackers to inject arbitrary HTML or JavaScript via a stored cross site scripting vulnerability.</description>
+</item>
+<item>
+<title>CVE-2021-26081</title>
+<link>https://free.vulniq.com/data/CVE-2021-26081/info</link>
+<description>REST API in Atlassian Jira Server and Jira Data Center before version 8.5.14, from version 8.6.0 before 8.13.6, and from version 8.14.0 before 8.16.1 allows remote attackers to enumerate usernames via a Sensitive Data Exposure vulnerability in the `/rest/api/latest/user/avatar/temporary` endpoint.</description>
+</item>
+<item>
 <title>CVE-2021-26080</title>
 <link>https://free.vulniq.com/data/CVE-2021-26080/info</link>
 <description>EditworkflowScheme.jspa in Jira Server and Jira Data Center before version 8.5.14, and from version 8.6.0 before version 8.13.6, and from 8.14.0 before 8.16.1 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability.</description>
@@ -569,21 +584,6 @@
 <title>CVE-2017-18033</title>
 <link>https://free.vulniq.com/data/CVE-2017-18033/info</link>
 <description>The Jira-importers-plugin in Atlassian Jira before version 7.6.1 allows remote attackers to create new projects and abort an executing external system import via various Cross-site request forgery (CSRF) vulnerabilities.</description>
-</item>
-<item>
-<title>CVE-2017-16865</title>
-<link>https://free.vulniq.com/data/CVE-2017-16865/info</link>
-<description>The Trello importer in Atlassian Jira before version 7.6.1 allows remote attackers to access the content of internal network resources via a Server Side Request Forgery (SSRF). When running in an environment like Amazon EC2, this flaw maybe used to access to a metadata resource that provides access ...</description>
-</item>
-<item>
-<title>CVE-2017-16864</title>
-<link>https://free.vulniq.com/data/CVE-2017-16864/info</link>
-<description>The issue search resource in Atlassian Jira before version 7.4.2 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability in the orderby parameter.</description>
-</item>
-<item>
-<title>CVE-2017-16863</title>
-<link>https://free.vulniq.com/data/CVE-2017-16863/info</link>
-<description>The PieChart gadget in Atlassian Jira before version 7.5.3 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability through the name of a project or filter.</description>
 </item>
 <item>
 <title>CVE-2017-16856</title>
