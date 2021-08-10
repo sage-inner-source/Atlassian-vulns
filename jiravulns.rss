@@ -531,6 +531,11 @@
 <description>The issue collector in Atlassian Jira before version 7.6.6, from version 7.7.0 before version 7.7.4, from version 7.8.0 before version 7.8.4 and from version 7.9.0 before version 7.9.2 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability in th...</description>
 </item>
 <item>
+<title>CVE-2017-18113</title>
+<link>https://free.vulniq.com/data/CVE-2017-18113/info</link>
+<description>The DefaultOSWorkflowConfigurator class in Jira Server and Jira Data Center before version 8.18.1 allows remote attackers who can trick a system administrator to import their malicious workflow to execute arbitrary code via a Remote Code Execution (RCE) vulnerability. The vulnerability allowed for v...</description>
+</item>
+<item>
 <title>CVE-2017-18104</title>
 <link>https://free.vulniq.com/data/CVE-2017-18104/info</link>
 <description>The Webhooks component of Atlassian Jira before version 7.6.7 and from version 7.7.0 before version 7.11.0 allows remote attackers who are able to observe or otherwise intercept webhook events to learn information about changes in issues that should not be sent because they are not contained within ...</description>
@@ -579,11 +584,6 @@
 <title>CVE-2017-18039</title>
 <link>https://free.vulniq.com/data/CVE-2017-18039/info</link>
 <description>The IncomingMailServers resource in Atlassian Jira from version 6.2.1 before version 7.4.4 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability in the messagesThreshold parameter.</description>
-</item>
-<item>
-<title>CVE-2017-18033</title>
-<link>https://free.vulniq.com/data/CVE-2017-18033/info</link>
-<description>The Jira-importers-plugin in Atlassian Jira before version 7.6.1 allows remote attackers to create new projects and abort an executing external system import via various Cross-site request forgery (CSRF) vulnerabilities.</description>
 </item>
 <item>
 <title>CVE-2017-16856</title>
