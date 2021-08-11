@@ -6,6 +6,11 @@
 <description>Security vulnerability feed</description>
 <language>en-us</language>
 <item>
+<title>CVE-2021-26085</title>
+<link>https://free.vulniq.com/data/CVE-2021-26085/info</link>
+<description>Affected versions of Atlassian Confluence Server allow remote attackers to view restricted resources via a Pre-Authorization Arbitrary File Read vulnerability in the /s/ endpoint. The affected versions are before version 7.4.10, and from version 7.5.0 before 7.12.3.</description>
+</item>
+<item>
 <title>CVE-2021-26083</title>
 <link>https://free.vulniq.com/data/CVE-2021-26083/info</link>
 <description>Export HTML Report in Atlassian Jira Server and Jira Data Center before version 8.5.14, from version 8.6.0 before 8.13.6, and from version 8.14.0 before 8.16.1 allows remote attackers to inject arbitrary HTML or JavaScript via a Cross-Site Scripting (XSS) vulnerability.</description>
