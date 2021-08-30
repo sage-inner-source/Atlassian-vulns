@@ -6,6 +6,11 @@
 <description>Security vulnerability feed</description>
 <language>en-us</language>
 <item>
+<title>CVE-2021-26086</title>
+<link>https://free.vulniq.com/data/CVE-2021-26086/info</link>
+<description>Affected versions of Atlassian Jira Server and Data Center allow remote attackers to read particular files via a path traversal vulnerability in the /WEB-INF/web.xml endpoint. The affected versions are before version 8.5.14, from version 8.6.0 before 8.13.6, and from version 8.14.0 before 8.16.1.</description>
+</item>
+<item>
 <title>CVE-2021-26085</title>
 <link>https://free.vulniq.com/data/CVE-2021-26085/info</link>
 <description>Affected versions of Atlassian Confluence Server allow remote attackers to view restricted resources via a Pre-Authorization Arbitrary File Read vulnerability in the /s/ endpoint. The affected versions are before version 7.4.10, and from version 7.5.0 before 7.12.3.</description>
@@ -584,11 +589,6 @@
 <title>CVE-2017-18083</title>
 <link>https://free.vulniq.com/data/CVE-2017-18083/info</link>
 <description>The editinword resource in Atlassian Confluence Server before version 6.4.0 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability through the contents of an uploaded file.</description>
-</item>
-<item>
-<title>CVE-2017-18039</title>
-<link>https://free.vulniq.com/data/CVE-2017-18039/info</link>
-<description>The IncomingMailServers resource in Atlassian Jira from version 6.2.1 before version 7.4.4 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability in the messagesThreshold parameter.</description>
 </item>
 <item>
 <title>CVE-2017-16856</title>
