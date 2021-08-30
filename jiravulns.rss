@@ -6,6 +6,11 @@
 <description>Security vulnerability feed</description>
 <language>en-us</language>
 <item>
+<title>CVE-2021-39112</title>
+<link>https://free.vulniq.com/data/CVE-2021-39112/info</link>
+<description>Affected versions of Atlassian Jira Server and Data Center allow remote attackers to redirect users to a malicious URL via a reverse tabnapping vulnerability in the Project Shortcuts feature. The affected versions are before version 8.5.15, from version 8.6.0 before 8.13.7, from version 8.14.0 befor...</description>
+</item>
+<item>
 <title>CVE-2021-26086</title>
 <link>https://free.vulniq.com/data/CVE-2021-26086/info</link>
 <description>Affected versions of Atlassian Jira Server and Data Center allow remote attackers to read particular files via a path traversal vulnerability in the /WEB-INF/web.xml endpoint. The affected versions are before version 8.5.14, from version 8.6.0 before 8.13.6, and from version 8.14.0 before 8.16.1.</description>
@@ -564,11 +569,6 @@
 <title>CVE-2017-18098</title>
 <link>https://free.vulniq.com/data/CVE-2017-18098/info</link>
 <description>The searchrequest-xml resource in Atlassian Jira before version 7.6.1 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability through various fields.</description>
-</item>
-<item>
-<title>CVE-2017-18097</title>
-<link>https://free.vulniq.com/data/CVE-2017-18097/info</link>
-<description>The Trello board importer resource in Atlassian Jira before version 7.6.1 allows remote attackers who can convince a Jira administrator to import their Trello board to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability in the title of a Trello card.</description>
 </item>
 <item>
 <title>CVE-2017-18086</title>
