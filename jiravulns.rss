@@ -6,9 +6,24 @@
 <description>Security vulnerability feed</description>
 <language>en-us</language>
 <item>
+<title>CVE-2021-39117</title>
+<link>https://free.vulniq.com/data/CVE-2021-39117/info</link>
+<description>The AssociateFieldToScreens page in Atlassian Jira Server and Data Center before version 8.18.0 allows remote attackers to inject arbitrary HTML or JavaScript via a Cross-Site Scripting (XSS) vulnerability via the name of a custom field.</description>
+</item>
+<item>
+<title>CVE-2021-39113</title>
+<link>https://free.vulniq.com/data/CVE-2021-39113/info</link>
+<description>Affected versions of Atlassian Jira Server and Data Center allow anonymous remote attackers to continue to view cached content even after losing permissions, via a Broken Access Control vulnerability in the allowlist feature. The affected versions are before version 8.13.9, and from version 8.14.0 b...</description>
+</item>
+<item>
 <title>CVE-2021-39112</title>
 <link>https://free.vulniq.com/data/CVE-2021-39112/info</link>
 <description>Affected versions of Atlassian Jira Server and Data Center allow remote attackers to redirect users to a malicious URL via a reverse tabnapping vulnerability in the Project Shortcuts feature. The affected versions are before version 8.5.15, from version 8.6.0 before 8.13.7, from version 8.14.0 befor...</description>
+</item>
+<item>
+<title>CVE-2021-39111</title>
+<link>https://free.vulniq.com/data/CVE-2021-39111/info</link>
+<description>The Editor plugin in Atlassian Jira Server and Data Center before version 8.5.18, from 8.6.0 before 8.13.10, and from version 8.14.0 before 8.18.2 allows remote attackers to inject arbitrary HTML or JavaScript via a Cross-Site Scripting (XSS) vulnerability in the handling of supplied content such as...</description>
 </item>
 <item>
 <title>CVE-2021-26086</title>
@@ -19,6 +34,11 @@
 <title>CVE-2021-26085</title>
 <link>https://free.vulniq.com/data/CVE-2021-26085/info</link>
 <description>Affected versions of Atlassian Confluence Server allow remote attackers to view restricted resources via a Pre-Authorization Arbitrary File Read vulnerability in the /s/ endpoint. The affected versions are before version 7.4.10, and from version 7.5.0 before 7.12.3.</description>
+</item>
+<item>
+<title>CVE-2021-26084</title>
+<link>https://free.vulniq.com/data/CVE-2021-26084/info</link>
+<description>In affected versions of Confluence Server and Data Center, an OGNL injection vulnerability exists that would allow an authenticated user, and in some instances an unauthenticated user, to execute arbitrary code on a Confluence Server or Data Center instance. The vulnerable endpoints can be accessed ...</description>
 </item>
 <item>
 <title>CVE-2021-26083</title>
@@ -554,21 +574,6 @@
 <title>CVE-2017-18104</title>
 <link>https://free.vulniq.com/data/CVE-2017-18104/info</link>
 <description>The Webhooks component of Atlassian Jira before version 7.6.7 and from version 7.7.0 before version 7.11.0 allows remote attackers who are able to observe or otherwise intercept webhook events to learn information about changes in issues that should not be sent because they are not contained within ...</description>
-</item>
-<item>
-<title>CVE-2017-18101</title>
-<link>https://free.vulniq.com/data/CVE-2017-18101/info</link>
-<description>Various administrative external system import resources in Atlassian JIRA Server (including JIRA Core) before version 7.6.5, from version 7.7.0 before version 7.7.3, from version 7.8.0 before version 7.8.3 and before version 7.9.0 allow remote attackers to run import operations and to determine if a...</description>
-</item>
-<item>
-<title>CVE-2017-18100</title>
-<link>https://free.vulniq.com/data/CVE-2017-18100/info</link>
-<description>The agile wallboard gadget in Atlassian Jira before version 7.8.1 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability in the name of quick filters.</description>
-</item>
-<item>
-<title>CVE-2017-18098</title>
-<link>https://free.vulniq.com/data/CVE-2017-18098/info</link>
-<description>The searchrequest-xml resource in Atlassian Jira before version 7.6.1 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability through various fields.</description>
 </item>
 <item>
 <title>CVE-2017-18086</title>
