@@ -6,6 +6,11 @@
 <description>Security vulnerability feed</description>
 <language>en-us</language>
 <item>
+<title>CVE-2021-39119</title>
+<link>https://free.vulniq.com/data/CVE-2021-39119/info</link>
+<description>Affected versions of Atlassian Jira Server and Data Center allow users who have watched an issue to continue receiving updates on the issue even after their Jira account is revoked, via a Broken Access Control vulnerability in the issue notification feature. The affected versions are before version ...</description>
+</item>
+<item>
 <title>CVE-2021-39117</title>
 <link>https://free.vulniq.com/data/CVE-2021-39117/info</link>
 <description>The AssociateFieldToScreens page in Atlassian Jira Server and Data Center before version 8.18.0 allows remote attackers to inject arbitrary HTML or JavaScript via a Cross-Site Scripting (XSS) vulnerability via the name of a custom field.</description>
@@ -569,11 +574,6 @@
 <title>CVE-2017-18113</title>
 <link>https://free.vulniq.com/data/CVE-2017-18113/info</link>
 <description>The DefaultOSWorkflowConfigurator class in Jira Server and Jira Data Center before version 8.18.1 allows remote attackers who can trick a system administrator to import their malicious workflow to execute arbitrary code via a Remote Code Execution (RCE) vulnerability. The vulnerability allowed for v...</description>
-</item>
-<item>
-<title>CVE-2017-18104</title>
-<link>https://free.vulniq.com/data/CVE-2017-18104/info</link>
-<description>The Webhooks component of Atlassian Jira before version 7.6.7 and from version 7.7.0 before version 7.11.0 allows remote attackers who are able to observe or otherwise intercept webhook events to learn information about changes in issues that should not be sent because they are not contained within ...</description>
 </item>
 <item>
 <title>CVE-2017-18086</title>
