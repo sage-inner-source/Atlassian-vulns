@@ -6,6 +6,16 @@
 <description>Security vulnerability feed</description>
 <language>en-us</language>
 <item>
+<title>CVE-2021-39122</title>
+<link>https://free.vulniq.com/data/CVE-2021-39122/info</link>
+<description>Affected versions of Atlassian Jira Server and Data Center allow anonymous remote attackers to view users' emails via an Information Disclosure vulnerability in the /rest/api/2/search endpoint. The affected versions are before version 8.5.13, from version 8.6.0 before 8.13.5, and from version 8.14.0...</description>
+</item>
+<item>
+<title>CVE-2021-39121</title>
+<link>https://free.vulniq.com/data/CVE-2021-39121/info</link>
+<description>Affected versions of Atlassian Jira Server and Data Center allow authenticated remote attackers to enumerate the keys of private Jira projects via an Information Disclosure vulnerability in the /rest/api/latest/projectvalidate/key endpoint. The affected versions are before version 8.5.18, from versi...</description>
+</item>
+<item>
 <title>CVE-2021-39119</title>
 <link>https://free.vulniq.com/data/CVE-2021-39119/info</link>
 <description>Affected versions of Atlassian Jira Server and Data Center allow users who have watched an issue to continue receiving updates on the issue even after their Jira account is revoked, via a Broken Access Control vulnerability in the issue notification feature. The affected versions are before version ...</description>
@@ -14,6 +24,11 @@
 <title>CVE-2021-39117</title>
 <link>https://free.vulniq.com/data/CVE-2021-39117/info</link>
 <description>The AssociateFieldToScreens page in Atlassian Jira Server and Data Center before version 8.18.0 allows remote attackers to inject arbitrary HTML or JavaScript via a Cross-Site Scripting (XSS) vulnerability via the name of a custom field.</description>
+</item>
+<item>
+<title>CVE-2021-39116</title>
+<link>https://free.vulniq.com/data/CVE-2021-39116/info</link>
+<description>Affected versions of Atlassian Jira Server and Data Center allow remote attackers to impact the application's availability via a Denial of Service (DoS) vulnerability in the GIF Image Reader component. The affected versions are before version 8.19.0.</description>
 </item>
 <item>
 <title>CVE-2021-39113</title>
@@ -541,19 +556,9 @@
 <description>Various resources in Atlassian Jira before version 7.6.8, from version 7.7.0 before version 7.7.5, from version 7.8.0 before version 7.8.5, from version 7.9.0 before version 7.9.3, from version 7.10.0 before version 7.10.3 and before version 7.11.1 allow remote attackers to inject arbitrary HTML or ...</description>
 </item>
 <item>
-<title>CVE-2018-13391</title>
-<link>https://free.vulniq.com/data/CVE-2018-13391/info</link>
-<description>The ProfileLinkUserFormat component of Jira Server before version 7.6.8, from version 7.7.0 before version 7.7.5, from version 7.8.0 before version 7.8.5, from version 7.9.0 before version 7.9.3, from version 7.10.0 before version 7.10.3 and from version 7.11.0 before version 7.11.2 allows remote at...</description>
-</item>
-<item>
 <title>CVE-2018-13389</title>
 <link>https://free.vulniq.com/data/CVE-2018-13389/info</link>
 <description>The attachment resource in Atlassian Confluence before version 6.6.1 allows remote attackers to spoof web content in the Mozilla Firefox Browser through attachments that have a content-type of application/rdf+xml.</description>
-</item>
-<item>
-<title>CVE-2018-13387</title>
-<link>https://free.vulniq.com/data/CVE-2018-13387/info</link>
-<description>The IncomingMailServers resource in Atlassian JIRA Server before version 7.6.7, from version 7.7.0 before version 7.7.5, from version 7.8.0 before version 7.8.5, from version 7.9.0 before version 7.9.3 and from version 7.10.0 before version 7.10.2 allows remote attackers to inject arbitrary HTML or ...</description>
 </item>
 <item>
 <title>CVE-2018-5232</title>
@@ -569,11 +574,6 @@
 <title>CVE-2018-5230</title>
 <link>https://free.vulniq.com/data/CVE-2018-5230/info</link>
 <description>The issue collector in Atlassian Jira before version 7.6.6, from version 7.7.0 before version 7.7.4, from version 7.8.0 before version 7.8.4 and from version 7.9.0 before version 7.9.2 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability in th...</description>
-</item>
-<item>
-<title>CVE-2017-18113</title>
-<link>https://free.vulniq.com/data/CVE-2017-18113/info</link>
-<description>The DefaultOSWorkflowConfigurator class in Jira Server and Jira Data Center before version 8.18.1 allows remote attackers who can trick a system administrator to import their malicious workflow to execute arbitrary code via a Remote Code Execution (RCE) vulnerability. The vulnerability allowed for v...</description>
 </item>
 <item>
 <title>CVE-2017-18086</title>
