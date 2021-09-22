@@ -605,9 +605,4 @@
 <link>https://free.vulniq.com/data/CVE-2017-9505/info</link>
 <description>Atlassian Confluence starting with 4.3.0 before 6.2.1 did not check if a user had permission to view a page when creating a workbox notification about new comments. An attacker who can login to Confluence could receive workbox notifications, which contain the content of comments, for comments added ...</description>
 </item>
-<item>
-<title>CVE-2017-7415</title>
-<link>https://free.vulniq.com/data/CVE-2017-7415/info</link>
-<description>Atlassian Confluence 6.x before 6.0.7 allows remote attackers to bypass authentication and read any blog or page via the drafts diff REST resource.</description>
-</item>
 </channel></rss>
