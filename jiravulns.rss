@@ -11,6 +11,16 @@
 <description>Affected versions of Atlassian Jira Server and Data Center allow anonymous remote attackers to discover the usernames of users via an enumeration vulnerability in the password reset page. The affected versions are before version 8.5.10, and from version 8.6.0 before 8.13.1.</description>
 </item>
 <item>
+<title>CVE-2021-39124</title>
+<link>https://free.vulniq.com/data/CVE-2021-39124/info</link>
+<description>The Cross-Site Request Forgery (CSRF) failure retry feature of Atlassian Jira Server and Data Center before version 8.16.0 allows remote attackers who are able to trick a user into retrying a request to bypass CSRF protection and replay a crafted request.</description>
+</item>
+<item>
+<title>CVE-2021-39123</title>
+<link>https://free.vulniq.com/data/CVE-2021-39123/info</link>
+<description>Affected versions of Atlassian Jira Server and Data Center allow unauthenticated remote attackers to impact the application's availability via a Denial of Service (DoS) vulnerability in the /rest/gadget/1.0/createdVsResolved/generate endpoint. The affected versions are before version 8.16.0.</description>
+</item>
+<item>
 <title>CVE-2021-39122</title>
 <link>https://free.vulniq.com/data/CVE-2021-39122/info</link>
 <description>Affected versions of Atlassian Jira Server and Data Center allow anonymous remote attackers to view users' emails via an Information Disclosure vulnerability in the /rest/api/2/search endpoint. The affected versions are before version 8.5.13, from version 8.6.0 before 8.13.5, and from version 8.14.0...</description>
@@ -24,6 +34,11 @@
 <title>CVE-2021-39119</title>
 <link>https://free.vulniq.com/data/CVE-2021-39119/info</link>
 <description>Affected versions of Atlassian Jira Server and Data Center allow users who have watched an issue to continue receiving updates on the issue even after their Jira account is revoked, via a Broken Access Control vulnerability in the issue notification feature. The affected versions are before version ...</description>
+</item>
+<item>
+<title>CVE-2021-39118</title>
+<link>https://free.vulniq.com/data/CVE-2021-39118/info</link>
+<description>Affected versions of Atlassian Jira Server and Data Center allow remote attackers to discover the usernames and full names of users via an enumeration vulnerability in the /rest/api/1.0/render endpoint. The affected versions are before version 8.19.0.</description>
 </item>
 <item>
 <title>CVE-2021-39117</title>
@@ -539,21 +554,6 @@
 <title>CVE-2018-13404</title>
 <link>https://free.vulniq.com/data/CVE-2018-13404/info</link>
 <description>The VerifyPopServerConnection resource in Atlassian Jira before version 7.6.10, from version 7.7.0 before version 7.7.5, from version 7.8.0 before version 7.8.5, from version 7.9.0 before version 7.9.3, from version 7.10.0 before version 7.10.3, from version 7.11.0 before version 7.11.3, from versio...</description>
-</item>
-<item>
-<title>CVE-2018-13403</title>
-<link>https://free.vulniq.com/data/CVE-2018-13403/info</link>
-<description>The two-dimensional filter statistics gadget in Atlassian Jira before version 7.6.10, from version 7.7.0 before version 7.12.4, and from version 7.13.0 before version 7.13.1 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability in the name of a...</description>
-</item>
-<item>
-<title>CVE-2018-13402</title>
-<link>https://free.vulniq.com/data/CVE-2018-13402/info</link>
-<description>Many resources in Atlassian Jira before version 7.6.9, from version 7.7.0 before version 7.7.5, from version 7.8.0 before version 7.8.5, from version 7.9.0 before version 7.9.3, from version 7.10.0 before version 7.10.3, from version 7.11.0 before version 7.11.3, from version 7.12.0 before version 7...</description>
-</item>
-<item>
-<title>CVE-2018-13401</title>
-<link>https://free.vulniq.com/data/CVE-2018-13401/info</link>
-<description>The XsrfErrorAction resource in Atlassian Jira before version 7.6.9, from version 7.7.0 before version 7.7.5, from version 7.8.0 before version 7.8.5, from version 7.9.0 before version 7.9.3, from version 7.10.0 before version 7.10.3, from version 7.11.0 before version 7.11.3, from version 7.12.0 be...</description>
 </item>
 <item>
 <title>CVE-2018-13389</title>
