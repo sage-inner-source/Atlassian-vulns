@@ -401,6 +401,11 @@
 <description>Comment properties in Atlassian Jira Server and Data Center before version 7.13.12, from 8.0.0 before version 8.5.4, and 8.6.0 before version 8.6.1 allows remote attackers to make comments on a ticket to which they do not have commenting permissions via a broken access control bug.</description>
 </item>
 <item>
+<title>CVE-2019-20101</title>
+<link>https://free.vulniq.com/data/CVE-2019-20101/info</link>
+<description>Affected versions of Atlassian Jira Server and Data Center allow anonymous remote attackers to view whitelist rules via a Broken Access Control vulnerability in the /rest/whitelist/<version>/check endpoint. The affected versions are before version 8.13.3, and from version 8.14.0 before 8.14.1.</description>
+</item>
+<item>
 <title>CVE-2019-20100</title>
 <link>https://free.vulniq.com/data/CVE-2019-20100/info</link>
 <description>The Atlassian Application Links plugin is vulnerable to cross-site request forgery (CSRF). The following versions are affected: all versions prior to 5.4.21, from version 6.0.0 before version 6.0.12, from version 6.1.0 before version 6.1.2, from version 7.0.0 before version 7.0.2, and from version 7...</description>
@@ -549,11 +554,6 @@
 <title>CVE-2018-13401</title>
 <link>https://free.vulniq.com/data/CVE-2018-13401/info</link>
 <description>The XsrfErrorAction resource in Atlassian Jira before version 7.6.9, from version 7.7.0 before version 7.7.5, from version 7.8.0 before version 7.8.5, from version 7.9.0 before version 7.9.3, from version 7.10.0 before version 7.10.3, from version 7.11.0 before version 7.11.3, from version 7.12.0 be...</description>
-</item>
-<item>
-<title>CVE-2018-13400</title>
-<link>https://free.vulniq.com/data/CVE-2018-13400/info</link>
-<description>Several administrative resources in Atlassian Jira before version 7.6.9, from version 7.7.0 before version 7.7.5, from version 7.8.0 before version 7.8.5, from version 7.9.0 before version 7.9.3, from version 7.10.0 before version 7.10.3, from version 7.11.0 before version 7.11.3, from version 7.12....</description>
 </item>
 <item>
 <title>CVE-2018-13389</title>
