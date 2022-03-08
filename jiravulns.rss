@@ -26,6 +26,11 @@
 <description>Affected versions of Atlassian Jira Server and Data Center allow authenticated remote attackers to add administrator groups to filter subscriptions via a Broken Access Control vulnerability in the /secure/EditSubscription.jspa endpoint. The affected versions are before version 8.21.0.</description>
 </item>
 <item>
+<title>CVE-2021-43945</title>
+<link>https://free.vulniq.com/data/CVE-2021-43945/info</link>
+<description>Affected versions of Atlassian Jira Server and Data Center allow remote attackers with Roadmaps Administrator permissions to inject arbitrary HTML or JavaScript via a Stored Cross-Site Scripting (SXSS) vulnerability in the /rest/jpo/1.0/hierarchyConfiguration endpoint. The affected versions are befo...</description>
+</item>
+<item>
 <title>CVE-2021-43941</title>
 <link>https://free.vulniq.com/data/CVE-2021-43941/info</link>
 <description>Affected versions of Atlassian Jira Server and Data Center allow remote attackers to modify several resources (including CsvFieldMappingsPage.jspa and ImporterValueMappingsPage.jspa) via a Cross-Site Request Forgery (CSRF) vulnerability in the jira-importers-plugin. The affected versions are before ...</description>
@@ -504,11 +509,6 @@
 <title>CVE-2019-11588</title>
 <link>https://free.vulniq.com/data/CVE-2019-11588/info</link>
 <description>The ViewSystemInfo class doGarbageCollection method in Jira before version 7.13.6, from version 8.0.0 before version 8.2.3, and from version 8.3.0 before version 8.3.2 allows remote attackers to trigger garbage collection via a Cross-site request forgery (CSRF) vulnerability.</description>
-</item>
-<item>
-<title>CVE-2019-11587</title>
-<link>https://free.vulniq.com/data/CVE-2019-11587/info</link>
-<description>Various exposed resources of the ViewLogging class in Jira before version 7.13.6, from version 8.0.0 before version 8.2.3, and from version 8.3.0 before version 8.3.2 allow remote attackers to modify various settings via Cross-site request forgery (CSRF).</description>
 </item>
 <item>
 <title>CVE-2019-8449</title>
