@@ -126,11 +126,6 @@
 <description>The AssociateFieldToScreens page in Atlassian Jira Server and Data Center before version 8.18.0 allows remote attackers to inject arbitrary HTML or JavaScript via a Cross-Site Scripting (XSS) vulnerability via the name of a custom field.</description>
 </item>
 <item>
-<title>CVE-2021-39116</title>
-<link>https://free.vulniq.com/data/CVE-2021-39116/info</link>
-<description>Affected versions of Atlassian Jira Server and Data Center allow remote attackers to impact the application's availability via a Denial of Service (DoS) vulnerability in the GIF Image Reader component. The affected versions are before version 8.13.14, and from version 8.14.0 before 8.19.0.</description>
-</item>
-<item>
 <title>CVE-2021-39113</title>
 <link>https://free.vulniq.com/data/CVE-2021-39113/info</link>
 <description>Affected versions of Atlassian Jira Server and Data Center allow anonymous remote attackers to continue to view cached content even after losing permissions, via a Broken Access Control vulnerability in the allowlist feature. The affected versions are before version 8.13.9, and from version 8.14.0 b...</description>
@@ -509,6 +504,11 @@
 <title>CVE-2019-15005</title>
 <link>https://free.vulniq.com/data/CVE-2019-15005/info</link>
 <description>The Atlassian Troubleshooting and Support Tools plugin prior to version 1.17.2 allows an unprivileged user to initiate periodic log scans and send the results to a user-specified email address due to a missing authorization check. The email message may contain configuration information about the app...</description>
+</item>
+<item>
+<title>CVE-2019-11588</title>
+<link>https://free.vulniq.com/data/CVE-2019-11588/info</link>
+<description>The ViewSystemInfo class doGarbageCollection method in Jira before version 7.13.6, from version 8.0.0 before version 8.2.3, and from version 8.3.0 before version 8.3.2 allows remote attackers to trigger garbage collection via a Cross-site request forgery (CSRF) vulnerability.</description>
 </item>
 <item>
 <title>CVE-2019-8449</title>
