@@ -81,11 +81,6 @@
 <description>Affected versions of Atlassian Jira Server and Data Center allow anonymous remote attackers to the query component JQL endpoint via a Broken Access Control vulnerability (BAC) vulnerability. The affected versions are before version 8.5.10, and from version 8.6.0 before 8.13.1.</description>
 </item>
 <item>
-<title>CVE-2021-39126</title>
-<link>https://free.vulniq.com/data/CVE-2021-39126/info</link>
-<description>Affected versions of Atlassian Jira Server and Data Center allow remote attackers to modify various resources via a Cross-Site Request Forgery (CSRF) vulnerability, following an Information Disclosure vulnerability in the referrer headers which discloses a user's CSRF token. The affected versions ar...</description>
-</item>
-<item>
 <title>CVE-2021-39125</title>
 <link>https://free.vulniq.com/data/CVE-2021-39125/info</link>
 <description>Affected versions of Atlassian Jira Server and Data Center allow anonymous remote attackers to discover the usernames of users via an enumeration vulnerability in the password reset page. The affected versions are before version 8.5.10, and from version 8.6.0 before 8.13.1.</description>
@@ -509,6 +504,11 @@
 <title>CVE-2019-11587</title>
 <link>https://free.vulniq.com/data/CVE-2019-11587/info</link>
 <description>Various exposed resources of the ViewLogging class in Jira before version 7.13.6, from version 8.0.0 before version 8.2.3, and from version 8.3.0 before version 8.3.2 allow remote attackers to modify various settings via Cross-site request forgery (CSRF).</description>
+</item>
+<item>
+<title>CVE-2019-11586</title>
+<link>https://free.vulniq.com/data/CVE-2019-11586/info</link>
+<description>The AddResolution.jspa resource in Jira before version 7.13.6, from version 8.0.0 before version 8.2.3, and from version 8.3.0 before version 8.3.2 allows remote attackers to create new resolutions via a Cross-site request forgery (CSRF) vulnerability.</description>
 </item>
 <item>
 <title>CVE-2019-8449</title>
