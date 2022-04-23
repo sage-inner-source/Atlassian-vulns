@@ -511,6 +511,11 @@
 <description>The AddResolution.jspa resource in Jira before version 7.13.6, from version 8.0.0 before version 8.2.3, and from version 8.3.0 before version 8.3.2 allows remote attackers to create new resolutions via a Cross-site request forgery (CSRF) vulnerability.</description>
 </item>
 <item>
+<title>CVE-2019-11585</title>
+<link>https://free.vulniq.com/data/CVE-2019-11585/info</link>
+<description>The startup.jsp resource in Jira before version 7.13.6, from version 8.0.0 before version 8.2.3, and from version 8.3.0 before version 8.3.2 allows remote attackers to redirect users to a different website which they may use as part of performing a phishing attack via an open redirect.</description>
+</item>
+<item>
 <title>CVE-2019-8449</title>
 <link>https://free.vulniq.com/data/CVE-2019-8449/info</link>
 <description>The /rest/api/latest/groupuserpicker resource in Jira before version 8.4.0 allows remote attackers to enumerate usernames via an information disclosure vulnerability.</description>
@@ -539,11 +544,6 @@
 <title>CVE-2019-3401</title>
 <link>https://free.vulniq.com/data/CVE-2019-3401/info</link>
 <description>The ManageFilters.jspa resource in Jira before version 7.13.3 and from version 8.0.0 before version 8.1.1 allows remote attackers to enumerate usernames via an incorrect authorisation check.</description>
-</item>
-<item>
-<title>CVE-2019-3400</title>
-<link>https://free.vulniq.com/data/CVE-2019-3400/info</link>
-<description>The labels gadget in Jira before version 7.13.2, and from version 8.0.0 before version 8.0.2 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability in the jql parameter.</description>
 </item>
 <item>
 <title>CVE-2019-3399</title>
