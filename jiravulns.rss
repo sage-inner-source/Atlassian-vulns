@@ -161,11 +161,6 @@
 <description>REST API in Atlassian Jira Server and Jira Data Center before version 8.5.14, from version 8.6.0 before 8.13.6, and from version 8.14.0 before 8.16.1 allows remote attackers to enumerate usernames via a Sensitive Data Exposure vulnerability in the `/rest/api/latest/user/avatar/temporary` endpoint.</description>
 </item>
 <item>
-<title>CVE-2021-26080</title>
-<link>https://free.vulniq.com/data/CVE-2021-26080/info</link>
-<description>EditworkflowScheme.jspa in Jira Server and Jira Data Center before version 8.5.14, and from version 8.6.0 before version 8.13.6, and from 8.14.0 before 8.16.1 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability.</description>
-</item>
-<item>
 <title>CVE-2021-26079</title>
 <link>https://free.vulniq.com/data/CVE-2021-26079/info</link>
 <description>The CardLayoutConfigTable component in Jira Server and Jira Data Center before version 8.5.15, and from version 8.6.0 before version 8.13.7, and from version 8.14.0 before 8.17.0 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability.</description>
@@ -514,6 +509,11 @@
 <title>CVE-2019-11585</title>
 <link>https://free.vulniq.com/data/CVE-2019-11585/info</link>
 <description>The startup.jsp resource in Jira before version 7.13.6, from version 8.0.0 before version 8.2.3, and from version 8.3.0 before version 8.3.2 allows remote attackers to redirect users to a different website which they may use as part of performing a phishing attack via an open redirect.</description>
+</item>
+<item>
+<title>CVE-2019-11584</title>
+<link>https://free.vulniq.com/data/CVE-2019-11584/info</link>
+<description>The MigratePriorityScheme resource in Jira before version 8.3.2 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability in the priority icon url of an issue priority.</description>
 </item>
 <item>
 <title>CVE-2019-8449</title>
