@@ -261,11 +261,6 @@
 <description>The ConfluenceResourceDownloadRewriteRule class in Confluence Server and Confluence Data Center before version 6.13.18, from 6.14.0 before 7.4.6, and from 7.5.0 before 7.8.3 allowed unauthenticated remote attackers to read arbitrary files within WEB-INF and META-INF directories via an incorrect path...</description>
 </item>
 <item>
-<title>CVE-2020-29445</title>
-<link>https://free.vulniq.com/data/CVE-2020-29445/info</link>
-<description>Affected versions of Confluence Server before 7.4.8, and versions from 7.5.0 before 7.11.0 allow attackers to identify internal hosts and ports via a blind server-side request forgery vulnerability in Team Calendars parameters.</description>
-</item>
-<item>
 <title>CVE-2020-29444</title>
 <link>https://free.vulniq.com/data/CVE-2020-29444/info</link>
 <description>Affected versions of Team Calendar in Confluence Server before 7.11.0 allow attackers to inject arbitrary HTML or Javascript via a Cross Site Scripting Vulnerability in admin global setting parameters.</description>
