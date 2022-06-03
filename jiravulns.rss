@@ -11,19 +11,9 @@
 <description>Affected versions of Atlassian Jira Server and Data Center allow unauthenticated remote attackers to toggle the Thread Contention and CPU monitoring settings via a Cross-Site Request Forgery (CSRF) vulnerability in the /secure/admin/ViewInstrumentation.jspa endpoint. The affected versions are before...</description>
 </item>
 <item>
-<title>CVE-2021-43952</title>
-<link>https://free.vulniq.com/data/CVE-2021-43952/info</link>
-<description>Affected versions of Atlassian Jira Server and Data Center allow unauthenticated remote attackers to restore the default configuration of fields via a Cross-Site Request Forgery (CSRF) vulnerability in the /secure/admin/RestoreDefaults.jspa endpoint. The affected versions are before version 8.21.0.</description>
-</item>
-<item>
 <title>CVE-2021-43947</title>
 <link>https://free.vulniq.com/data/CVE-2021-43947/info</link>
 <description>Affected versions of Atlassian Jira Server and Data Center allow remote attackers with administrator privileges to execute arbitrary code via a Remote Code Execution (RCE) vulnerability in the Email Templates feature. This issue bypasses the fix of https://jira.atlassian.com/browse/JSDSERVER-8665. T...</description>
-</item>
-<item>
-<title>CVE-2021-43946</title>
-<link>https://free.vulniq.com/data/CVE-2021-43946/info</link>
-<description>Affected versions of Atlassian Jira Server and Data Center allow authenticated remote attackers to add administrator groups to filter subscriptions via a Broken Access Control vulnerability in the /secure/EditSubscription.jspa endpoint. The affected versions are before version 8.21.0.</description>
 </item>
 <item>
 <title>CVE-2021-43945</title>
@@ -509,6 +499,16 @@
 <title>CVE-2019-11584</title>
 <link>https://free.vulniq.com/data/CVE-2019-11584/info</link>
 <description>The MigratePriorityScheme resource in Jira before version 8.3.2 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability in the priority icon url of an issue priority.</description>
+</item>
+<item>
+<title>CVE-2019-11583</title>
+<link>https://free.vulniq.com/data/CVE-2019-11583/info</link>
+<description>The issue searching component in Jira before version 8.1.0 allows remote attackers to deny access to Jira service via denial of service vulnerability in issue search when ordering by "Epic Name".</description>
+</item>
+<item>
+<title>CVE-2019-11581</title>
+<link>https://free.vulniq.com/data/CVE-2019-11581/info</link>
+<description>There was a server-side template injection vulnerability in Jira Server and Data Center, in the ContactAdministrators and the SendBulkMail actions. An attacker is able to remotely execute code on systems that run a vulnerable version of Jira Server or Data Center. All versions of Jira Server and Dat...</description>
 </item>
 <item>
 <title>CVE-2019-8449</title>
