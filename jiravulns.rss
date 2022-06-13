@@ -21,11 +21,6 @@
 <description>Affected versions of Atlassian Jira Server and Data Center allow remote attackers with Roadmaps Administrator permissions to inject arbitrary HTML or JavaScript via a Stored Cross-Site Scripting (SXSS) vulnerability in the /rest/jpo/1.0/hierarchyConfiguration endpoint. The affected versions are befo...</description>
 </item>
 <item>
-<title>CVE-2021-43944</title>
-<link>https://free.vulniq.com/data/CVE-2021-43944/info</link>
-<description>This issue exists to document that a security improvement in the way that Jira Server and Data Center use templates has been implemented. Affected versions of Atlassian Jira Server and Data Center allowed remote attackers with system administrator permissions to execute arbitrary code via Template I...</description>
-</item>
-<item>
 <title>CVE-2021-41312</title>
 <link>https://free.vulniq.com/data/CVE-2021-41312/info</link>
 <description>Affected versions of Atlassian Jira Server and Data Center allow a remote attacker who has had their access revoked from Jira Service Management to enable and disable Issue Collectors on Jira Service Management projects via an Improper Authentication vulnerability in the /secure/ViewCollectors endpo...</description>
@@ -559,6 +554,11 @@
 <title>CVE-2018-5232</title>
 <link>https://free.vulniq.com/data/CVE-2018-5232/info</link>
 <description>The EditIssue.jspa resource in Atlassian Jira before version 7.6.7 and from version 7.7.0 before version 7.10.1 allows remote attackers to inject arbitrary HTML or JavaScript via a cross site scripting (XSS) vulnerability in the issuetype parameter.</description>
+</item>
+<item>
+<title>CVE-2018-5231</title>
+<link>https://free.vulniq.com/data/CVE-2018-5231/info</link>
+<description>The ForgotLoginDetails resource in Atlassian Jira before version 7.6.6, from version 7.7.0 before version 7.7.4, from version 7.8.0 before version 7.8.4 and from version 7.9.0 before version 7.9.2 allows remote attackers to perform a denial of service attack via sending requests to it.</description>
 </item>
 <item>
 <title>CVE-2017-18086</title>
